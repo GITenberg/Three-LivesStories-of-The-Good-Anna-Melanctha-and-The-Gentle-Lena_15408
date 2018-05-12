@@ -16,6 +16,8 @@ description: "Three Lives (1909) was American writer Gertrude Stein's first publ
   , and \"The Gentle Lena\".\nThe three stories are independent of each other, but\
   \ all are set in Bridgepoint, a fictional town based on Baltimore.\n From Wikipedia\
   \ (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15408#Three-LivesStories-of-The-Good-Anna-Melanctha-and-The-Gentle-Lena
 gutenberg_issued: '2005-03-18'
 gutenberg_type: Text
 identifiers:
