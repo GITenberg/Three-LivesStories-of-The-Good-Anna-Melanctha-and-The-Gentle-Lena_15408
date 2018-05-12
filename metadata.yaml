@@ -1,0 +1,37 @@
+_repo: Three-LivesStories-of-The-Good-Anna-Melanctha-and-The-Gentle-Lena_15408
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stein, Gertrude
+    birthdate: 1874
+    deathdate: 1946
+    gutenberg_agent_id: '6032'
+    url: http://www.gutenberg.org/2009/agents/6032
+    wikipedia: http://en.wikipedia.org/wiki/Gertrude_Stein
+description: "Three Lives (1909) was American writer Gertrude Stein's first published\
+  \ book. The book is separated into three stories, \"The Good Anna\", \"Melanctha\"\
+  , and \"The Gentle Lena\".\nThe three stories are independent of each other, but\
+  \ all are set in Bridgepoint, a fictional town based on Baltimore.\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_issued: '2005-03-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15408'
+  wikidata: Q7797597
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Working class women -- Fiction'
+- !lcc 'PS'
+title: 'Three Lives
+
+  Stories of The Good Anna, Melanctha and The Gentle Lena'
+url: http://www.gutenberg.org/ebooks/15408
+wikipedia:
+- https://sh.wikipedia.org/wiki/Three_Lives
+- https://en.wikipedia.org/wiki/Three_Lives
