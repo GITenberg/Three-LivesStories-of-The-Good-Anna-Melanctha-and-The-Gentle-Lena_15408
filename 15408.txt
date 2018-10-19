@@ -1092,7 +1092,6 @@ door slammed.
 
 "There's ma now," cried Julia in an uneasy triumph, for she was not
 quite certain in her mind which side of the question she was on.
-
 "There's ma now, and you can ask her for yourself if I ain't told you
 true."
 
@@ -3438,7 +3437,7 @@ ain't got any use for all the time being in excitements and wanting to
 have all kinds of experience all the time. I got plenty of experience
 just living regular and quiet and with my family, and doing my work,
 and taking care of people, and trying to understand it. I don't
-believe much in this running around business and I. don't want to see
+believe much in this running around business and I don't want to see
 the colored people do it. I am a colored man and I ain't sorry, and I
 want to see the colored people like what is good and what I want
 them to have, and that's to live regular and work hard and understand
@@ -7256,7 +7255,7 @@ Then, too, Mathilda would get very mad when her mother had Lena at
 their parties, and when she talked about how good Lena was, to certain
 german mothers in whose sons, perhaps, Mrs. Haydon might find Lena a
 good husband. All this would make the dull, blonde, fat Mathilda very
-angry: Sometimes she would get so angry that she would, in her thick,
+angry. Sometimes she would get so angry that she would, in her thick,
 slow way, and with jealous anger blazing in her light blue eyes, tell
 her mother that she did not see how she could like that nasty Lena;
 and then her mother would scold Mathilda, and tell her that she knew
